@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Clinton
-- 👀 I’m interested in Front-end Development(HTML, CSS, Javascript, Angular), while sprinting my way in web developemnt :)
+- 👀 I’m interested in Front-end Development(HTML, CSS, Javascript, Angular)
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Front-End projects
 - 📫 How to reach me clintoncleetus17@gmail.com
