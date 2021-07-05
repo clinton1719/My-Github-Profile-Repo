@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @clinton1719
-- 👀 I’m interested in Java, Spring, SQL, while sprinting my way in mostly web developemnt :)
-- 🌱 I’m currently learning Java and Spring.
-- 💞️ I’m looking to collaborate on Java, Spring Boot, Microservices and Cloud.
+- 👋 Hi, I’m Clinton
+- 👀 I’m interested in Front-end Development(HTML, CSS, Javascript, Angular), while sprinting my way in web developemnt :)
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Front-End projects
 - 📫 How to reach me clintoncleetus17@gmail.com
 
 <!---
